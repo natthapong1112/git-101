@@ -1,0 +1,7 @@
+do_not_track.txt
+
+*.exe 
+
+*.dll
+
+debug
